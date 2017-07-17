@@ -1,0 +1,21 @@
+================================================================================================================				
+					Christ University g-bot command
+================================================================================================================
+
+*			 g pdf att		 => 		Fetch attendance in PDF 												
+
+* 			 g img att 		 => 		Fetch attendance in a PNG image											
+
+* 			 g pdf abs 		 => 		Fetch absence details in PDF 											
+	
+*  			 g img abs		 =>		Fetch absence details in PNG image 											
+
+*  			 g pdf cia 		 => 		Fetch CIA details in PDF 												
+
+* 			 g img cia 		 => 		Fetch CIA details in PNG image											
+
+* 			 g prog    		 => 		Fetch academic Progress details in PDF 									
+
+================================================================================================================
+
+
